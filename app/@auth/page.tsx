@@ -1,9 +1,8 @@
 
-
 function page() {
   return (
     <div>
-      home
+      Login
     </div>
   )
 }
